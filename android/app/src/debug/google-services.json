@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602678537700",
+    "project_id": "k-electric-app",
+    "storage_bucket": "k-electric-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602678537700:android:ed07ec93d2e00b2ae56bf1",
+        "android_client_info": {
+          "package_name": "com.example.k_electric_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602678537700-m7jn1k8i7btlotc90j417tgn9lk6t1r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxZ5_HVFd5gv_JFpdcKqZCeRRSTxq-sP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602678537700-m7jn1k8i7btlotc90j417tgn9lk6t1r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
